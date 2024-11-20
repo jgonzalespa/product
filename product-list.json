@@ -1,0 +1,26 @@
+[
+  {
+    "id": 1,
+    "name": "Python básico",
+    "description": "introducción a Python",
+    "price": 50
+  },
+  {
+    "id": 2,
+    "name": "Ruby básico",
+    "description": "introducción a Ruby",
+    "price": 70
+  },
+  {
+    "id": 3,
+    "name": "Introducción a Docker",
+    "description": "Docker",
+    "price": 100
+  },
+  {
+    "id": 4,
+    "name": "Jenkin",
+    "description": "introducción a Jenkin",
+    "price": 150
+  }
+]
